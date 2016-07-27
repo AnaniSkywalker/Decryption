@@ -1,3 +1,7 @@
+/*Author: Anani Assoutovi
+ * 
+ * NOTE: You are free to use this solution under the condition of giving credit to the "Author".
+*/
 import static java.lang.System.out;
 import java.util.Scanner;
 
